@@ -1,0 +1,28 @@
+body {
+  width: 1000px;
+  margin: auto;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+.heading-title { /* css selector for the heading-title class */
+  text-align: center;
+}
+
+.problem-title {
+  color: cornflowerblue;
+}
+
+.research-title {
+  color: firebrick;
+}
+
+.courage-title {
+  color: dimgray;
+}
+
+.text-center {
+  text-align: center;
+}
